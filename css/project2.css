@@ -147,7 +147,7 @@ outline: none;
 .showcase-area {
     height: 50vh;
     width: 100%;
-    background: linear-gradient(rgba(240, 240, 240, 0.144), rgba(255, 255, 255, 0.336)), url('img/food2.jpg');
+    background-image: url('img/food2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
