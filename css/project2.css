@@ -147,8 +147,13 @@ outline: none;
 .showcase-area {
     height: 50vh;
     width: 100%;
+<<<<<<< HEAD
  background-image: url("../img/food2.jpg");
  background-color: rgba(0, 0, 0, 0.44);
+=======
+     background-image: url("../img/food2.jpg"); 
+background-color:#aaa;
+>>>>>>> 919b2bff4901fed6445494cf1beb50c8b11a609c
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
